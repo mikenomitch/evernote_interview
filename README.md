@@ -10,6 +10,7 @@ screenshot 2 - https://cl.ly/2i3h2t1u0j0F/Image%202016-11-22%20at%2012.38.44%20P
 
 The app should start very simple. CRUD actions on notes and notebooks and can increase in complexity as time goes. There is no expected end goal.
 
+Assume that you are working with a great backend developer who can make the api behave however you like.
 
 ### task
 
